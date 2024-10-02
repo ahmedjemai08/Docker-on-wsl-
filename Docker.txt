@@ -1,0 +1,3 @@
+sudo chmod +x docker-install.sh
+sudo ./docker-install.sh -y
+sudo chmod 777 /var/run/docker.sock
